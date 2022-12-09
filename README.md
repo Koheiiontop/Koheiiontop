@@ -9,7 +9,6 @@
 </p>
 
 [![DiscordProfileBanner](https://discord.com)
-![Acee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koheiiontop&hide=contribs,prs)
 
 > **Warning**
 > This user is a registered sex offender.
